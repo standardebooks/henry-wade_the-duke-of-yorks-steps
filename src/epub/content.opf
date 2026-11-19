@@ -55,8 +55,7 @@
 		<link href="https://github.com/standardebooks/henry-wade_the-duke-of-yorks-steps" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Henry Wade</dc:creator>
 		<meta property="file-as" refines="#author">Wade, Henry</meta>
-		<meta property="schema:alternateName" refines="#author">Henry William Rawson Wade</meta>
-		<link href="https://en.wikipedia.org/wiki/Henry_Wade" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Sir_Henry_Aubrey-Fletcher,_6th_Baronet" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no90006741.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
